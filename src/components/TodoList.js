@@ -8,7 +8,7 @@ import {
 import AddTodo from '../containers/AddTodo'
 
 const TodoList = ({todos, toggleTodo}) => (
-  <View>
+  <View style={{padding: 20}}>
   {todos.map(todo =>
     <TouchableOpacity key={todo.id} onPress={()=>toggleTodo(todo.id)}>
       <Text style={{fontSize:24, textDecorationLine: todo.completed ? 'line-through' : 'none'
