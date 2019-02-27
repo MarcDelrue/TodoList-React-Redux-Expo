@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://am-nra.anonymous.todolist-react-redux-expo.exp.direct",
+  "packagerNgrokUrl": "https://packager.am-nra.anonymous.todolist-react-redux-expo.exp.direct",
+  "ngrokPid": 22481,
+  "devToolsPort": 19002,
+  "packagerPort": 19003,
+  "packagerPid": 22424
+}
